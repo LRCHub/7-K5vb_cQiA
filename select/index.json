@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "絶対きゃんちゅー宣言っ！",
+  "base_artist": "CANDY TUNE",
+  "createdAt": "2025-12-17T15:25:15.033655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶対きゃんちゅー宣言っ！",
+      "artist": "CANDY TUNE",
+      "has_synced": true,
+      "path": "select/01_絶対きゃんちゅー宣言っ!_CANDY_TUNE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶対きゃんちゅー宣言っ!",
+      "artist": "CANDY TUNE",
+      "has_synced": false,
+      "path": "select/pl_01_絶対きゃんちゅー宣言っ!_CANDY_TUNE.txt"
+    }
+  ]
+}
